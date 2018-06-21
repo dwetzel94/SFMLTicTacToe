@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -lsfml-graphics -lsfml-window -lsfml-system -lGL -rdynamic CMakeFiles/sfmltictactoe.dir/main.cpp.o  -o sfmltictactoe 

@@ -1,0 +1,7 @@
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/install/strip.dir
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/edit_cache.dir
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/sfmltictactoe.dir
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/rebuild_cache.dir
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/list_install_components.dir
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/install/local.dir
+/home/demi/Git/SFMLTicTacToe/CMakeFiles/install.dir
